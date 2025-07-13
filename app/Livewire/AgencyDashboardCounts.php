@@ -12,6 +12,7 @@ class AgencyDashboardCounts extends Component
     public $studentCount = 0;
     public $semesterCount = 0;
 
+
     public function mount()
     {
         // Get the current logged-in agency's ID
