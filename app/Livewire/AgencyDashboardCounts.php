@@ -7,6 +7,8 @@ use Illuminate\Support\Facades\Auth;
 use App\Models\StudentsTakingEnrollment; // Your enrollment table model
 use App\Models\SemesterGrading;
 
+
+
 class AgencyDashboardCounts extends Component
 {
     public $studentCount = 0;
